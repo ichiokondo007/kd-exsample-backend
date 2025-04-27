@@ -7,6 +7,7 @@
 /dist
 /build
 /out
+/file
 *.tsbuildinfo
 
 # 環境変数

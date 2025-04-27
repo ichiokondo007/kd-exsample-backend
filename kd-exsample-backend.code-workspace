@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../kd-exsample-mongodb"
+		},
+		{
+			"path": "../kd-exsample-fablic"
+		}
+	]
+}
